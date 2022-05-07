@@ -1,6 +1,6 @@
-# Introduction to Classification.
+# Introduction to Classification
 
-## Usefull links
+## Useful links
 - [The Standard Normal Distribution | Examples, Explanations, Uses](https://www.scribbr.com/statistics/standard-normal-distribution/)
 - [Bivariate Normal Distribution / Multivariate Normal (Overview) ](https://www.statisticshowto.com/bivariate-normal-distribution/)
 
